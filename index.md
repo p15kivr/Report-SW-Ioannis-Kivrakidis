@@ -44,8 +44,8 @@
 
 # Δικτυογραφία
 
-(http://tobiasahlin.com/moving-letters/)[http://tobiasahlin.com/moving-letters/]
+[http://tobiasahlin.com/moving-letters/](http://tobiasahlin.com/moving-letters/)
 
-(https://stackoverflow.com/)[https://stackoverflow.com/]
+[https://stackoverflow.com/](https://stackoverflow.com/)
 
-(https://www.w3schools.com/)[https://www.w3schools.com/]
+[https://www.w3schools.com/](https://www.w3schools.com/)
