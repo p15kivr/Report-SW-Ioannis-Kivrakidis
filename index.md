@@ -26,12 +26,16 @@
 
 Σε αυτό το παραδοτέο πρόσθεσα ένα στοιχείο element, όπου εμπεριέχει το URL με τις εικόνες των δωρητών, του κοινού αποθετηρίου του κώδικα. Μετά αυτό το στοιχείο δέχεται ύψος και πλάτος και εμφανίζεται στο κάτω μέρος της οθόνης. Ακόμα δημιουργήθηκε ένα νέο πλαίσιο με το όνομα και την εικόνα από το προφίλ μου, με ένα animation διαφορετικό από των υπολοίπων. Αυτό δοκιμάσθηκε στο [προσωπικό ιστότοπο](https://p15kivr.github.io/D3js-uk-political-donations/participants/) και έγινε pull request στο [κοινό αποθετήριο](https://ioniodi.github.io/D3js-uk-political-donations/participants/). Το animation βρέθηκε από αυτόν [τον ιστότοπο](http://tobiasahlin.com/moving-letters/).
 
-# Εικόνες
+# Ενδεικτικές εικόνες
 
 ![Screenshot_1](Screenshot_4.png)
+
 ![Screenshot_2](Screenshot_5.png)
+
 ![Screenshot_3](Screenshot_6.png)
+
 ![Screenshot_4](Screenshot_7.png)
+
 ![Screenshot_5](Screenshot_8.png)
 
 # Συμπεράσματα
@@ -41,5 +45,7 @@
 # Δικτυογραφία
 
 http://tobiasahlin.com/moving-letters/
+
 https://stackoverflow.com/
+
 https://www.w3schools.com/
